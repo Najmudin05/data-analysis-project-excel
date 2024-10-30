@@ -14,7 +14,7 @@ This project involves analyzing e-commerce sales data to uncover key insights th
 - What is the distribution of sales by segment?
 - Who is the customer with the highest total sales?
 - What are the total sales, profit, and products sold?
-- Dasboard Interaction <a href="
+- Dasboard Interaction <a href="https://github.com/Najmudin05/project-dashboard/blob/main/excel/Dashboard-Sales%20of%20Ecommerce.jpg" a>
 
 ## Process
 - Ensure data accuracy by handling missing values, duplicates, and standardizing formats.
