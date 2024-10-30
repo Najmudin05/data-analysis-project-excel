@@ -4,7 +4,7 @@
 This project involves analyzing e-commerce sales data to uncover key insights that can drive business growth and improve decision-making. The objective is to comprehensive view of key sales metrics, segmented by product categories, regions, customer segments, and order priorities.
 
 ## Dataset
-- <a href="
+- Dataset can be accessed [here](https://github.com/Najmudin05/data-analysis-project-excel/blob/main/Dataset%20-%20Sales%20of%20Ecommerce.xlsx)
 
 ## KPIs
 - What is the trend of monthly sales and profit?
@@ -14,7 +14,7 @@ This project involves analyzing e-commerce sales data to uncover key insights th
 - What is the distribution of sales by segment?
 - Who is the customer with the highest total sales?
 - What are the total sales, profit, and products sold?
-- Dasboard Interaction <a href="https://github.com/Najmudin05/project-dashboard/blob/main/excel/Dashboard-Sales%20of%20Ecommerce.jpg" a>
+- Dasboard Interaction (view [here](https://github.com/Najmudin05/project-dashboard/blob/main/excel/Dashboard-Sales%20of%20Ecommerce.jpg))
 
 ## Process
 - Ensure data accuracy by handling missing values, duplicates, and standardizing formats.
